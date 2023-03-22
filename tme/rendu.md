@@ -1,4 +1,4 @@
-<img src="https://cfa-insta.fr/wp-content/uploads/2020/08/Logo-CFAINSTA.png"
+<img src="Logo-CFAINSTA.png"
      alt="logo cfa"
      style="height: 100px; margin-left: 450px;" />
 
@@ -63,4 +63,4 @@ Le plus simple pour l'hébergement d'un django et d'utiliser heroku : https://de
 
 Pensez bien à modifier les configurations host et cors pour fonctionner avec l'URL de votre serveur et frontend déployés.
 
-### Votre application devra être disponible en ligne au moins pendant 1 semaine après le rendu.
+### Votre application devra être disponible en ligne pendant au moins une semaine après le rendu.
